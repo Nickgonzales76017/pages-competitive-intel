@@ -1,0 +1,10 @@
+{
+  "id": "demo-competitive-intel",
+  "file": "rival-launch-analysis.pdf",
+  "time": "Demo dataset",
+  "status": "complete",
+  "brief": "Competitor launch is positioned around enterprise trust and workflow speed, but the strongest threat signal is their new migration concierge offer. Their product story is coherent, though pricing still leaves room for a smaller, artifact-first Bonfyre wedge.",
+  "tags": ["pricing", "migration", "enterprise"],
+  "flagged": true,
+  "demo": true
+}
