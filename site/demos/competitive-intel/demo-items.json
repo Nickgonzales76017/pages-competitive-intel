@@ -1,0 +1,56 @@
+[
+  {
+    "id": "demo-competitive-intel-a",
+    "file": "rival-launch-analysis.pdf",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Competitor launch is positioned around enterprise trust and workflow speed, but the strongest threat signal is their new migration concierge offer. Their product story is coherent, though pricing still leaves room for a smaller, artifact-first Bonfyre wedge.",
+    "tags": [
+      "pricing",
+      "migration",
+      "enterprise"
+    ],
+    "flagged": true,
+    "demo": true,
+    "searchSummary": "competitor moves, pricing shifts, launch notes",
+    "whyItMatters": "One intel packet becomes a searchable market brief.",
+    "searchIntro": "One intel packet becomes a searchable market brief. Search across the seeded records to feel that inside the app.",
+    "searchOutputs": []
+  },
+  {
+    "id": "demo-competitive-intel-b",
+    "file": "Related rival-launch-analysis.pdf",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "A second seeded record extends the same workflow so in-app search and reuse are visible instead of theoretical.",
+    "tags": [
+      "pricing",
+      "migration",
+      "related"
+    ],
+    "flagged": false,
+    "demo": true,
+    "searchSummary": "related signals, continuity, reuse",
+    "whyItMatters": "One intel packet becomes a searchable market brief.",
+    "searchIntro": "One intel packet becomes a searchable market brief. Search across the seeded records to feel that inside the app.",
+    "searchOutputs": []
+  },
+  {
+    "id": "demo-competitive-intel-c",
+    "file": "Follow-up rival-launch-analysis.pdf",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "A third seeded record shows how this app can connect follow-up work, recurring themes, and downstream use without leaving the demo experience.",
+    "tags": [
+      "pricing",
+      "migration",
+      "follow-up"
+    ],
+    "flagged": false,
+    "demo": true,
+    "searchSummary": "follow-up, memory, downstream action",
+    "whyItMatters": "One intel packet becomes a searchable market brief.",
+    "searchIntro": "One intel packet becomes a searchable market brief. Search across the seeded records to feel that inside the app.",
+    "searchOutputs": []
+  }
+]
