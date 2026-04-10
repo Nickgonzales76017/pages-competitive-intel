@@ -1,56 +1,110 @@
 [
   {
-    "id": "demo-competitive-intel-a",
-    "file": "rival-launch-analysis.pdf",
-    "time": "Reference corpus",
+    "id": "competitive-intel-60-seconds",
+    "file": "Competitive Intelligence in 60 Seconds",
+    "time": "Public origin \u00b7 71s",
     "status": "complete",
-    "brief": "Competitor launch is positioned around enterprise trust and workflow speed, but the strongest threat signal is their new migration concierge offer. Their product story is coherent, though pricing still leaves room for a smaller, artifact-first Bonfyre wedge.",
+    "brief": "Competitive intelligence is not just one piece of data, a link to an article, a press release,  a piece of information. It's about how you as a product marketer, as a competitive intelligence professional, can provide  the appropriate context and the right nuance in order to make that data point into true competitive  intelligence help your entire team activate it to great success. When you're thinking about competitive intelligence, it's not just about gathering data, a newsfeed  full of stuff. Just a piece of information about what the enemy is doing is useless until you interpret  it and view it through that lens.",
     "tags": [
-      "pricing",
-      "migration",
-      "enterprise"
+      "market",
+      "competitive",
+      "intelligence",
+      "analysis",
+      "strategy"
     ],
     "flagged": true,
     "demo": true,
-    "searchSummary": "competitor moves, pricing shifts, launch notes",
-    "whyItMatters": "One intel packet becomes a searchable market brief.",
-    "searchIntro": "One intel packet becomes a searchable market brief. Search across the reference records to feel that inside the app.",
-    "searchOutputs": []
+    "sourceUrl": "https://www.youtube.com/watch?v=YueKD1pSvKI",
+    "sourceLabel": "Watch original public video",
+    "sourceTitle": "Competitive Intelligence in 60 Seconds",
+    "publisher": "Crayon Competitive Intelligence",
+    "license": "Public YouTube video processed transiently. Bonfyre retained only derived artifacts.",
+    "sourceCopy": "Source: Crayon Competitive Intelligence on YouTube. Bonfyre downloaded, transcribed, and deleted the media. Only the transcript, brief, and proof remain.",
+    "whyItMatters": "Market research becomes a structured intelligence database \u2014 competitor signals and trends searchable over time.",
+    "searchSummary": "market, competitive, intelligence",
+    "searchIntro": "Search across the competitive intel records to see how Bonfyre connects related content from different sources.",
+    "outputs": [
+      "intel brief",
+      "clean transcript",
+      "proof bundle",
+      "search across signals"
+    ],
+    "outputNotes": {
+      "intel brief": "Bonfyre extracted the key points from the source audio into a structured intel brief.",
+      "clean transcript": "The raw transcript cleaned of filler words, false starts, and artifacts.",
+      "proof bundle": "Full provenance chain: source URL, transcription confidence, processing recipe, and quality flags."
+    },
+    "outputLinks": {
+      "brief": {
+        "href": "demos/competitive-intel/proofs/competitive-intel-60-seconds/brief.md",
+        "label": "Open brief"
+      },
+      "clean transcript": {
+        "href": "demos/competitive-intel/proofs/competitive-intel-60-seconds/clean.txt",
+        "label": "Open clean transcript"
+      },
+      "proof bundle": {
+        "href": "demos/competitive-intel/proofs/competitive-intel-60-seconds/proof.json",
+        "label": "Open proof JSON"
+      }
+    },
+    "searchOutputs": [
+      "search across records"
+    ],
+    "proofPath": "demos/competitive-intel/proofs/competitive-intel-60-seconds"
   },
   {
-    "id": "demo-competitive-intel-b",
-    "file": "Related rival-launch-analysis.pdf",
-    "time": "Reference corpus",
+    "id": "market-intelligence-101",
+    "file": "Market Intelligence 101",
+    "time": "Public origin \u00b7 382s",
     "status": "complete",
-    "brief": "A second reference record extends the same workflow so in-app search and reuse are visible instead of theoretical.",
+    "brief": "Market intelligence is a three-part process, aggregate, analysis, and activation. Generally speaking, companies invest in market intelligence with the intent of mitigating risk, simplifying decision-making, accelerating revenue, and increasing longevity. Market intelligence is broken into four distinct categories, customer, competitor, product, and market. Competitive intelligence is the process of capturing, analyzing, and activating information related to your competitive landscape.",
     "tags": [
-      "pricing",
-      "migration",
-      "related"
+      "market",
+      "competitive",
+      "intelligence",
+      "analysis",
+      "strategy"
     ],
     "flagged": false,
     "demo": true,
-    "searchSummary": "related signals, continuity, reuse",
-    "whyItMatters": "One intel packet becomes a searchable market brief.",
-    "searchIntro": "One intel packet becomes a searchable market brief. Search across the reference records to feel that inside the app.",
-    "searchOutputs": []
-  },
-  {
-    "id": "demo-competitive-intel-c",
-    "file": "Follow-up rival-launch-analysis.pdf",
-    "time": "Reference corpus",
-    "status": "complete",
-    "brief": "A third reference record shows how this app can connect follow-up work, recurring themes, and downstream use without leaving the demo experience.",
-    "tags": [
-      "pricing",
-      "migration",
-      "follow-up"
+    "sourceUrl": "https://www.youtube.com/watch?v=9KvLUQFhb2M",
+    "sourceLabel": "Watch original public video",
+    "sourceTitle": "Market Intelligence 101",
+    "publisher": "Crayon Competitive Intelligence",
+    "license": "Public YouTube video processed transiently. Bonfyre retained only derived artifacts.",
+    "sourceCopy": "Source: Crayon Competitive Intelligence on YouTube. Bonfyre downloaded, transcribed, and deleted the media. Only the transcript, brief, and proof remain.",
+    "whyItMatters": "Market research becomes a structured intelligence database \u2014 competitor signals and trends searchable over time.",
+    "searchSummary": "market, competitive, intelligence",
+    "searchIntro": "Search across the competitive intel records to see how Bonfyre connects related content from different sources.",
+    "outputs": [
+      "intel brief",
+      "clean transcript",
+      "proof bundle",
+      "search across signals"
     ],
-    "flagged": false,
-    "demo": true,
-    "searchSummary": "follow-up, memory, downstream action",
-    "whyItMatters": "One intel packet becomes a searchable market brief.",
-    "searchIntro": "One intel packet becomes a searchable market brief. Search across the reference records to feel that inside the app.",
-    "searchOutputs": []
+    "outputNotes": {
+      "intel brief": "Bonfyre extracted the key points from the source audio into a structured intel brief.",
+      "clean transcript": "The raw transcript cleaned of filler words, false starts, and artifacts.",
+      "proof bundle": "Full provenance chain: source URL, transcription confidence, processing recipe, and quality flags."
+    },
+    "outputLinks": {
+      "brief": {
+        "href": "demos/competitive-intel/proofs/market-intelligence-101/brief.md",
+        "label": "Open brief"
+      },
+      "clean transcript": {
+        "href": "demos/competitive-intel/proofs/market-intelligence-101/clean.txt",
+        "label": "Open clean transcript"
+      },
+      "proof bundle": {
+        "href": "demos/competitive-intel/proofs/market-intelligence-101/proof.json",
+        "label": "Open proof JSON"
+      }
+    },
+    "searchOutputs": [
+      "search across records"
+    ],
+    "proofPath": "demos/competitive-intel/proofs/market-intelligence-101"
   }
 ]

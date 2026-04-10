@@ -1,0 +1,21 @@
+# Competitive Intelligence in 60 Seconds
+
+## Summary
+- Competitive intelligence is not just one piece of data, a link to an article, a press release,  a piece of information.
+- It's about how you as a product marketer, as a competitive intelligence professional, can provide  the appropriate context and the right nuance in order to make that data point into true competitive  intelligence help your entire team activate it to great success.
+- When you're thinking about competitive intelligence, it's not just about gathering data, a newsfeed  full of stuff.
+- Just a piece of information about what the enemy is doing is useless until you interpret  it and view it through that lens.
+- Hi, I'm Eric Manser, VP of product marketing at crayon, and this is competitive intelligence  in 60 seconds.
+- Competitive intelligence is your truth around that piece of intelligence.
+
+## Action Items
+- You, as a competitive intelligence professional, need to add your own context.
+
+## Deep Summary
+- You, as a competitive intelligence professional, need to add your own context.
+- It's just like, I don't know, like the spy games that exist in John Le Corre novels.
+- That is to say that it can exist on its own.
+- I'm Eric from crayon and that's been competitive intelligence in 60 seconds.
+
+## Transcript
+Hi, I'm Eric Manser, VP of product marketing at crayon, and this is competitive intelligence  in 60 seconds. Competitive intelligence is not just one piece of data, a link to an article, a press release,  a piece of information. Competitive intelligence is your truth around that piece of intelligence. That is to say that it can exist on its own. That's just fine. You, as a competitive intelligence professional, need to add your own context. What does this mean for us? It's just like, I don't know, like the spy games that exist in John Le Corre novels. Just a piece of information about what the enemy is doing is useless until you interpret  it and view it through that lens. When you're thinking about competitive intelligence, it's not just about gathering data, a newsfeed  full of stuff. It's about how you as a product marketer, as a competitive intelligence professional, can provide  the appropriate context and the right nuance in order to make that data point into true competitive  intelligence help your entire team activate it to great success. That's it. Time's up. I'm Eric from crayon and that's been competitive intelligence in 60 seconds.

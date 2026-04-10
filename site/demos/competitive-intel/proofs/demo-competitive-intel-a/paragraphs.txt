@@ -1,0 +1,11 @@
+For Access. I've pasted in a prompt asking chat GBT to help me with an expansion strategy. As I'm looking to expand my D2C sneaker store internationally. I need help prioritizing. Whether to launch in Japan, Korea, or Taiwan first. I've given it some criteria around. What I wanted to take into consideration and how I want the final report structured.
+
+I can also guide it with types of sources I wanted to use. Now let's send that off. Just like any good researcher would do. I'll provide it with some more details,.
+
+But I'm also going to leave it a little open-ended in some areas and ask chat GBT to make recommendations. Follow-up questions so that you have visibility into what it's doing. Once we send it, it can take. Anywhere from 5 to 30 minutes. As the research begins, you can see in the chain of thought on. The right-hand side how the model is scanning the relevant articles on the web, providing. Proper citations and discovering new keywords.
+
+This is going to take some time, so I have. Completed run that I ran earlier today. Let's take a look at that one. This research took us. About eight minutes. When I click here, I can see the full chain of thought from the run. And all of the sources that it access.
+
+What's amazing is the depth and the detail in the. Report. In this report, you'll see that chat GBT has cited all of its sources so that I can. Navigate to have a closer look if I want it to. It's aggregated the total addressable market,. The consumer trends, the competitive insights, and the expansion strategy for every single. Country that I asked it about, and references them all with inline citations, which again.
+
+Allows you to verify sources. Along with the detailed research report, we also have a. Its focus as needed.

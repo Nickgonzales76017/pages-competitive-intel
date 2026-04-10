@@ -1,0 +1,16 @@
+{
+  "title": "competitive-intel \u2014 0G2pCw9wGfQ",
+  "public_url": "https://www.youtube.com/watch?v=0G2pCw9wGfQ",
+  "source": {
+    "title": "Market research with ChatGPT",
+    "channel": "OpenAI",
+    "duration_seconds": 151
+  },
+  "transcribe": {
+    "avg_confidence": 0.9117,
+    "rtf": 0.04,
+    "segments_total": 26,
+    "segments_hallucinated": 6
+  },
+  "retained_media": false
+}

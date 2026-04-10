@@ -1,0 +1,125 @@
+{
+  "steps": [
+    {
+      "name": "fetch-metadata",
+      "wall_s": 5.226,
+      "exit": 0
+    },
+    {
+      "name": "download-audio",
+      "wall_s": 4.443,
+      "exit": 0
+    },
+    {
+      "name": "media-prep",
+      "wall_s": 0.902,
+      "exit": 0
+    },
+    {
+      "name": "transcribe",
+      "wall_s": 15.774,
+      "exit": 0
+    },
+    {
+      "name": "transcript-clean",
+      "wall_s": 0.037,
+      "exit": 0
+    },
+    {
+      "name": "paragraph",
+      "wall_s": 0.036,
+      "exit": 0
+    },
+    {
+      "name": "brief",
+      "wall_s": 0.038,
+      "exit": 0
+    },
+    {
+      "name": "tag",
+      "wall_s": 0.186,
+      "exit": 0
+    },
+    {
+      "name": "tone",
+      "wall_s": 1.935,
+      "exit": 0
+    },
+    {
+      "name": "embed",
+      "wall_s": 0.089,
+      "exit": 0
+    },
+    {
+      "name": "hash",
+      "wall_s": 0.027,
+      "exit": 0
+    },
+    {
+      "name": "render",
+      "wall_s": 0.039,
+      "exit": 0
+    },
+    {
+      "name": "offer",
+      "wall_s": 0.03,
+      "exit": 0
+    },
+    {
+      "name": "repurpose-tweet",
+      "wall_s": 0.03,
+      "exit": 0
+    },
+    {
+      "name": "repurpose-linkedin",
+      "wall_s": 0.031,
+      "exit": 0
+    },
+    {
+      "name": "repurpose-youtube",
+      "wall_s": 0.03,
+      "exit": 0
+    },
+    {
+      "name": "pack",
+      "wall_s": 0.097,
+      "exit": 0
+    },
+    {
+      "name": "emit-html",
+      "wall_s": 0.084,
+      "exit": 0
+    },
+    {
+      "name": "index",
+      "wall_s": 0.037,
+      "exit": 0
+    },
+    {
+      "name": "compress",
+      "wall_s": 0.057,
+      "exit": 0
+    },
+    {
+      "name": "stitch",
+      "wall_s": 0.028,
+      "exit": 0
+    },
+    {
+      "name": "ledger",
+      "wall_s": 0.028,
+      "exit": 0
+    },
+    {
+      "name": "meter",
+      "wall_s": 0.034,
+      "exit": 0
+    }
+  ],
+  "steps_ok": 23,
+  "steps_total": 23,
+  "total_s": 29.22,
+  "source": {
+    "duration_seconds": 313
+  }
+}
